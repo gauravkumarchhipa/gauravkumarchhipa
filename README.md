@@ -1,5 +1,5 @@
 ### Hi i am GauravKumar chhipa 👋
-
+<img alt="github contribution snake animation" src="https://github.com/gauravkumarchhipa/gauravkumarchhipa/blob/master/assets/github-contribution-grid-snake.svg">
 <!--
 **gauravkumarchhipa/gauravkumarchhipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
